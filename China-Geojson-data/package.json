@@ -1,0 +1,12 @@
+{
+  "name": "china-geojson-data",
+  "version": "1.0.0",
+  "description": "全国行政区划Geojson文件，包含省市区",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node src/index"
+  },
+  "author": "",
+  "license": "ISC"
+}
